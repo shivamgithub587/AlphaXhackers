@@ -1,2 +1,2 @@
-# Shivam.github.io
-Trial website, Just trying
+#Your name is submitted<br>
+You can log in 2-3 hours.
